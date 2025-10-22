@@ -1,5 +1,5 @@
 # 💫 About Me:
-Got it ✅ Here’s your updated AWS-focused GitHub README bio with your email for connecting:<br><br>👋 Hey, I’m Cynthia Mokgoebo<br><br>☁️ AWS enthusiast passionate about cloud technology and innovation.<br>💻 Exploring architecture, automation, and documentation in the cloud.<br>📊 Skilled in reviewing, organizing, and improving technical content.<br>🚀 Always learning and building with purpose.<br>🌍 Based in South Africa, collaborating remotely across time zones.<br>📫 Reach me at cynthiamokgoebo@gmail.com<br>
+👋 Hey, I’m Cynthia Mokgoebo<br><br>☁️ AWS enthusiast passionate about cloud technology and innovation.<br>💻 Exploring architecture, automation, and documentation in the cloud.<br>📊 Skilled in reviewing, organizing, and improving technical content.<br>🚀 Always learning and building with purpose.<br>🌍 Based in South Africa, collaborating remotely across time zones.<br>📫 Reach me at cynthiamokgoebo@gmail.com<br>
 
 
 ## 🌐 Socials:
